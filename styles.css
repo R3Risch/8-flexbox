@@ -1,0 +1,52 @@
+html {
+    background-color: coral;
+
+}
+
+body {
+    margin: 0px;
+
+}
+
+.navlist {
+    background-color: crimson;
+    list-style-type: none;
+    padding: 10px;
+    display: flex;
+    gap: 10px;
+
+
+
+}
+
+.navbase {
+    background-color: cornflowerblue;
+    padding: 10px;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 10px;
+    display: inline-block;
+
+}
+
+.navbase:hover {
+    background-color: blueviolet;
+    padding: 10px;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 10px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
